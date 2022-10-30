@@ -1,0 +1,15 @@
+C:\dev\StackFul\bin\Debug\net6.0\StackFul.exe
+C:\dev\StackFul\bin\Debug\net6.0\StackFul.deps.json
+C:\dev\StackFul\bin\Debug\net6.0\StackFul.runtimeconfig.json
+C:\dev\StackFul\bin\Debug\net6.0\StackFul.dll
+C:\dev\StackFul\bin\Debug\net6.0\StackFul.pdb
+C:\dev\StackFul\obj\Debug\net6.0\StackFul.csproj.AssemblyReference.cache
+C:\dev\StackFul\obj\Debug\net6.0\StackFul.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\StackFul\obj\Debug\net6.0\StackFul.AssemblyInfoInputs.cache
+C:\dev\StackFul\obj\Debug\net6.0\StackFul.AssemblyInfo.cs
+C:\dev\StackFul\obj\Debug\net6.0\StackFul.csproj.CoreCompileInputs.cache
+C:\dev\StackFul\obj\Debug\net6.0\StackFul.dll
+C:\dev\StackFul\obj\Debug\net6.0\refint\StackFul.dll
+C:\dev\StackFul\obj\Debug\net6.0\StackFul.pdb
+C:\dev\StackFul\obj\Debug\net6.0\StackFul.genruntimeconfig.cache
+C:\dev\StackFul\obj\Debug\net6.0\ref\StackFul.dll
